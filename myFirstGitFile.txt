@@ -6,3 +6,4 @@ Git is free software distributed under the GPL.
 #####The 2nd time add 1 line
 Hahahelloworld
 ###Before add license
+Git tracks changes.
